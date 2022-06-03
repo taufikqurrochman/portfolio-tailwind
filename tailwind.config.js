@@ -1,5 +1,7 @@
 module.exports = {
   content: ['index.html'],
+  //untuk mode dark
+  darkMode: 'class',
   theme: {
     container: {
       center: true,
